@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.0   
+FROM mirrorgooglecontainers/kubernetes-apiserver-amd64:v1.10.9   
 
 MAINTAINER wangyongqiang
